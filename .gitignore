@@ -1,0 +1,14 @@
+**/.ipynb_checkpoints/
+**/tex/*.aux
+**/tex/*.log
+**/tex/*.toc
+**/tex/*.bbl
+**/tex/*.blg
+**/tex/*.out
+**/tex/*.lof
+**/tex/*.lot
+**/tex/*.fls
+**/tex/*.fdb_latexmk
+**/tex/*.synctex
+**/tex/*.synctex.gz
+**/__pycache__/
